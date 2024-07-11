@@ -1,5 +1,7 @@
 <script lang="ts">
 	import 'open-props/open-props.min.css';
+	import 'open-props/normalize.min.css';
+	import '$lib/globals.css';
 	let { children } = $props();
 </script>
 
